@@ -15,7 +15,9 @@ include 'header.php';
   <div class="row">
     <div class="span6">
 <h3>Club Events</h3>
-  <p>Our club hosts a variety of events for computer science undergraduates. Subscribe to our <a href="{{ links.mailing_list }}"> mailing list</a> to get notified of upcoming events. You should also like the <a href="{{ links.facebook }}">Rice Computer Science Club Facebook page</a>, to which many club and department events are posted. There is also a general <a href="{{ links.cs_facebook_group }}">Rice Computer Science</a> group you can join on facebook if you have a rice email. For events related to career development, visit the <a href="career">career page</a>.</p>
+  <p>Our club hosts a variety of events for computer science undergraduates. Subscribe to our <a href="<?php print($links_mailing_list); ?>"> mailing list</a> to get notified of upcoming events. You should also like the <a href="{{ links.facebook }}">Rice 
+Computer Science Club Facebook page</a>, 
+to which many club and department events are posted. There is also a general <a href="{{ links.cs_facebook_group }}">Rice Computer Science</a> group you can join on facebook if you have a rice email. For events related to career development, visit the <a href="career">career page</a>.</p>
   <div class="row">
     <div class="span6">
       <h3>Social Events</h3>
