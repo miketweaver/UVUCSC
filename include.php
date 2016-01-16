@@ -3,6 +3,7 @@ $faculty_sponsor_name = 'Rob Jorgensen';
 $faculty_sponsor_url = 'https://www.uvu.edu/profpages/profiles/show/user_id/14943';
 
 $links_mailing_list = 'https://lists.uvu.edu/sympa/info/cybersecurity';
+$links_facebook_page = 'https://www.facebook.com/UVUCSC/';
 
 $officers_president_name='Austin Larsen';
 $officers_president_image = 'austin.jpg';

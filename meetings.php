@@ -15,32 +15,37 @@ include 'header.php';
   <div class="row">
     <div class="span6">
 <h3>Club Events</h3>
-  <p>Our club hosts a variety of events for computer science undergraduates. Subscribe to our <a href="<?php print($links_mailing_list); ?>"> mailing list</a> to get notified of upcoming events. You should also like the <a href="{{ links.facebook }}">Rice 
-Computer Science Club Facebook page</a>, 
-to which many club and department events are posted. There is also a general <a href="{{ links.cs_facebook_group }}">Rice Computer Science</a> group you can join on facebook if you have a rice email. For events related to career development, visit the <a href="career">career page</a>.</p>
+  <p>Our club hosts a variety of events for our CyberSecurity enthusiasts. Subscribe to our <a href="<?php print($links_mailing_list); ?>"> mailing list</a> to get notified of upcoming events. You should also like the <a href="<?php print($links_facebook_page); ?>">UVU CyberSecurity Facebook Page</a>, 
+to which many club and department events are posted. There is also a general <a href="<?php print($links_facebook_page); ?>">UVU CyberSecurity</a> group you can join on facebook if you so desire. For events related to career development, visit the <a href="career">career page</a>.</p>
   <div class="row">
     <div class="span6">
       <h3>Social Events</h3>
-      <p>Throughout the year, we hold social events such as lunches, study breaks, mixers, bowling nights, and random outings. We regularly host a study break or Christmas party after classes end. In the past study breaks, we have had activities such as cookie decorating contest, gift exchange, video games, trivia, prizes and swag giveaways. We also host a movie night once a semester.</p>
+      <p>Throughout the year, we hold social events such as ###########################################################. We regularly host a study break or Christmas party after classes end. In the past study breaks, we have had activities such as cookie decorating contest, gift exchange, video games, trivia, prizes and swag giveaways. We also host a LAN Party at least once a semester.</p>
     </div>
 
     <div class="span6">
-      <h3>Lunch Talks</h3>
-      <p>CS Club lunch talks feature Rice professors, students, and alumni with interesting research or career experiences to share. The talks are coordinated by <a href="{{ lunch_and_learn.coordinator_link }}">{{ lunch_and_learn.coordinator }}</a>, and are open to undergraduate students only. They're generally held on Wednesdays at noon in Duncan Hall, with free lunch provided! Be sure to join the our club mailing list for announcements regarding these lunch talks.</p>
-
-      <p>For a schedule of speakers, as well as a list of past speakers, check out the <a href="{{ lunch_and_learn.link }}">undergraduate lunch talks</a>.</p>
+      <h3>Industry Speakers</h3>
+      <p>One of our goals, as a club, is to get you hired in the field. To accomplish that we will periodically bring in people connected to the CyberSecurity circles in Utah and around the world. This will give you a chance to meet and learn from them. We hope to help you build a network of people who can help you land a job in the field. Be sure to join the our club mailing list for announcements regarding these events.</p>
     </div>
 
     <div class="span6">
-      <h3>Hackathons</h3>
+      <h3>CTF Events</h3>
       <p>Rice CS Club hosts a yearly student-led hackathon named <a href="{{ hack_rice.link }}">HackRice</a>. During the hackathon people get together and collaboratively code in an extreme manner over the span of a day or two to build amazing projects!</p>
       <p>It's simple: Code, Eat, Sleep for the entire weekend and see what you come up with. We'll take care of the eating part.</p>
       <p>At the end of the hackathon, participants demonstrate their applications to the audience and a panel of judges for a chance to win prizes.</p>
       <p>For details, visit <a href="{{ hack_rice.link }}">hack.rice.edu</a>.</p>
     </div>
+
+    <div class="span6">
+      <h3>DefCon</h3>
+      <p>Every year we go to <a href="https://www.defcon.org/">Defcon</a> as a club. Defcon usually takes place in the month of August.</p>
+      <p>This is the highlight of the year for our club. In order to cut down on costs, our club will host a Fundraiser and split the funds between those who helped.</p>
+      <p>We'll also help coordinate rides, hotels, anything you can think of to help everyone attend. Don't miss this!</p>
+      <p>For more info, talk to on of our <a href="officers">officers</a>.</p>
+    </div>    
   </div>
   <h3>Ideas?</h3>
-  <p>If you have any ideas for fun or useful events that we might be able to host, by all means send your suggestions to our socials chair <a href="mailto:{{ officers['Social Chair']['email'] }}">{{ officers["Social Chair"]["name"] }}</a> or any one of our <a href="officers">officers</a>!</p>
+  <p>If you have any ideas for fun or useful events that we might be able to host, by all means send your suggestions to our vice president <a href="mailto:<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a> or any one of our <a href="officers">officers</a>!</p>
 </div>
 <div class="span6">
 
