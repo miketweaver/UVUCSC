@@ -2,6 +2,8 @@
 $faculty_sponsor_name = 'Rob Jorgensen';
 $faculty_sponsor_url = 'https://www.uvu.edu/profpages/profiles/show/user_id/14943';
 
+$club_contact_email = 'nightshade@thebash.ninja'
+
 $links_mailing_list = 'https://lists.uvu.edu/sympa/info/cybersecurity';
 $links_facebook_page = 'https://www.facebook.com/UVUCSC/';
 
@@ -11,9 +13,9 @@ $officers_president_link = '';
 $officers_president_question = '';
 $officers_president_answer = '';
 $officers_president_class = 'Freshman';
-$officers_president_hometown = '';
-$officers_president_contact = '';
-$officers_president_contact_link = '';
+$officers_president_hometown = 'El Paso, Texas';
+$officers_president_contact = 'Email';
+$officers_president_contact_link = 'mailto:nightshade@thebash.ninja';
 
 $officers_vicepresident_name = 'Mike Weaver';
 $officers_vicepresident_image = 'mike.png';
@@ -30,18 +32,20 @@ $officers_communications_image = '';
 $officers_communications_link = '';
 $officers_communications_question = '';
 $officers_communications_answer = '';
-$officers_communications_class = '';
-$officers_communications_hometown = '';
-$officers_communications_contact = '';
+$officers_communications_class = 'N/A';
+$officers_communications_hometown = 'N/A';
+$officers_communications_contact = 'Email';
+$officers_communications_contact_link = 'mailto:nightshade@thebash.ninja';
 
 $officers_secretary_name = 'Stephanie Stewart';
 $officers_secretary_image = 'stephanie.jpg';
 $officers_secretary_link = '';
 $officers_secretary_question = '';
 $officers_secretary_answer = '';
-$officers_secretary_class = '';
-$officers_secretary_hometown = '';
-$officers_secretary_contact = '';
+$officers_secretary_class = 'N/A';
+$officers_secretary_hometown = 'N/A';
+$officers_secretary_contact = 'Email';
+$officers_secretary_contact_link = 'mailto:nightshade@thebash.ninja';
 ?>
 
 

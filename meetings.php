@@ -25,7 +25,7 @@ to which many club and department events are posted. There is also a general <a 
 
     <div class="span6">
       <h3>Industry Speakers</h3>
-      <p>One of our goals, as a club, is to get you hired in the field. To accomplish that we will periodically bring in people connected to the CyberSecurity circles in Utah and around the world. This will give you a chance to meet and learn from them. We hope to help you build a network of people who can help you land a job in the field. Be sure to join the our club mailing list for announcements regarding these events.</p>
+      <p>One of our goals is to get you hired in the field. To accomplish that, we will periodically bring in professionals connected to the CyberSecurity circles in Utah. This will give you a chance to meet and learn from them. We hope to help you build a network of people who can help you land a job in the field. Be sure to join the our club mailing list for announcements regarding these events.</p>
     </div>
 
     <div class="span6">
@@ -34,7 +34,7 @@ to which many club and department events are posted. There is also a general <a 
       <p>It's simple: If you really want to dig deep into the world of hacking as a sport, this is where you want to be. Every year we'll be attending <a href="https://www.saintcon.org/">SAINTCON</a> to compete.</p>
       <p>For details, check out our <a href="ctfteam">CTF Team</a>.</p>
     </div>
-
+S
     <div class="span6">
       <h3>DefCon</h3>
       <p>Every year we go to <a href="https://www.defcon.org/">Defcon</a> as a club. Defcon usually takes place in the month of August. This is the highlight of the year for our club. In order to cut down on costs, our club will host a Fundraiser and split the funds between those who helped. We'll also help coordinate rides, hotels, anything you can think of to help everyone attend.</p> 
@@ -42,7 +42,7 @@ to which many club and department events are posted. There is also a general <a 
     </div>    
   </div>
   <h3>Ideas?</h3>
-  <p>If you have any ideas for fun or useful events that we might be able to host, by all means send your suggestions to our vice president <a href="mailto:<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a> or any one of our <a href="officers">officers</a>!</p>
+  <p>If you have any ideas for fun or useful events that we might be able to host, by all means send your suggestions to our vice president<a href="<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a> or any one of our <a href="officers">officers</a>!</p>
 </div>
 <div class="span6">
 
