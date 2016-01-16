@@ -36,11 +36,11 @@ include 'header.php';
     <h3>Outside UVU</h3>
     <p>UVU CyberSecurity Club is very interested in collaborating with organizations and individuals outside of the UVU community. If you are interesting in working with the club, please look at the information below for different ways to get involved. We hope to hear from you soon!</p>
     <p><h5>- Tech Talks & Info Sessions</h5>
-      Tech Talks are a great way to get UVU students interested in what your company does and get in contact with potential interns and employees. If you are interested in hosting one of these, please email our current vice president <a href="mailto:riceucsclub@gmail.com">{{ officers['Vice President']['name'] }}</a>. Please be ready to provide a preferred date, time, and duration.
+      Tech Talks are a great way to get UVU students interested in what your company does and get in contact with potential interns and employees. If you are interested in hosting one of these, please email our current vice president <a href="<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a>. Please be ready to provide a preferred date, time, and duration.
     </p>
 
       <p><h5>- Sponsorship</h5>
-      Putting this club together every year is expensive, so we really appreciate sponsors. If you'd like to support the UVU CyberSecurity Club and other club activities, even if you don't want to sponsor us financially, we'd love to chat! Please contact vice president vice president <a href="<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?> for more information. 
+      Putting this club together every year is expensive, so we really appreciate sponsors. If you'd like to support the UVU CyberSecurity Club and other club activities, even if you don't want to sponsor us financially, we'd love to chat! Please contact vice president vice president <a href="<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a> for more information. 
     </p>
   </div>
 
