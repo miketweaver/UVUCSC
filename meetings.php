@@ -29,11 +29,11 @@ to which many club and department events are posted. There is also a general <a 
     </div>
 
     <div class="span6">
-      <h3>CTF Events</h3>
-      <p>Rice CS Club hosts a yearly student-led hackathon named <a href="{{ hack_rice.link }}">HackRice</a>. During the hackathon people get together and collaboratively code in an extreme manner over the span of a day or two to build amazing projects!</p>
-      <p>It's simple: Code, Eat, Sleep for the entire weekend and see what you come up with. We'll take care of the eating part.</p>
-      <p>At the end of the hackathon, participants demonstrate their applications to the audience and a panel of judges for a chance to win prizes.</p>
-      <p>For details, visit <a href="{{ hack_rice.link }}">hack.rice.edu</a>.</p>
+      <h3>CTF Team Events</h3>
+      <p>UVU CyberSecurity has an open Capture the Flag Team for anyone who wants to participate. We'll be having weekly meetings, in addition to the club meetings, to prepare ourselves to compete in CTFs throughout the world</p>
+      <p>It's simple: If you really want to dig deep into the world of hacking as a sport, this is where you want to be.</p>
+      <p>Every year we'll be attending <a href="https://www.saintcon.org/">SAINTCON</a> in person to compete.</p>
+      <p>For details, check out our <a href="ctfteam">CTF Team</a>.</p>
     </div>
 
     <div class="span6">
@@ -41,7 +41,7 @@ to which many club and department events are posted. There is also a general <a 
       <p>Every year we go to <a href="https://www.defcon.org/">Defcon</a> as a club. Defcon usually takes place in the month of August.</p>
       <p>This is the highlight of the year for our club. In order to cut down on costs, our club will host a Fundraiser and split the funds between those who helped.</p>
       <p>We'll also help coordinate rides, hotels, anything you can think of to help everyone attend. Don't miss this!</p>
-      <p>For more info, talk to on of our <a href="officers">officers</a>.</p>
+      <p>For more info, talk to one of our <a href="officers">officers</a>.</p>
     </div>    
   </div>
   <h3>Ideas?</h3>
