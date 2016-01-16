@@ -18,7 +18,7 @@ $officers_president_contact = 'Email';
 $officers_president_contact_link = 'mailto:nightshade@thebash.ninja';
 
 $officers_vicepresident_name = 'Mike Weaver';
-$officers_vicepresident_image = 'mike.png';
+$officers_vicepresident_image = 'mike.jpg';
 $officers_vicepresident_link = 'http://www.thebash.ninja';
 $officers_vicepresident_question = '';
 $officers_vicepresident_answer = '';
