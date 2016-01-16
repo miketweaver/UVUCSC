@@ -38,10 +38,9 @@ to which many club and department events are posted. There is also a general <a 
 
     <div class="span6">
       <h3>DefCon</h3>
-      <p>Every year we go to <a href="https://www.defcon.org/">Defcon</a> as a club. Defcon usually takes place in the month of August.</p>
-      <p>This is the highlight of the year for our club. In order to cut down on costs, our club will host a Fundraiser and split the funds between those who helped.</p>
-      <p>We'll also help coordinate rides, hotels, anything you can think of to help everyone attend. Don't miss this!</p>
-      <p>For more info, talk to one of our <a href="officers">officers</a>.</p>
+      <p>Every year we go to <a href="https://www.defcon.org/">Defcon</a> as a club. Defcon usually takes place in the month of August. This is the highlight of the year for our club. In order to cut down on costs, our club will host a Fundraiser and split the funds between those who helped.
+      <p>We'll also help coordinate rides, hotels, anything you can think of to help everyone attend.</p> 
+      <p>Don't miss this! For more info, talk to one of our <a href="officers">officers</a>.</p>
     </div>    
   </div>
   <h3>Ideas?</h3>
