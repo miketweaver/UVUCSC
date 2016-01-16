@@ -19,7 +19,7 @@
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
     <link href="css/docs.css" rel="stylesheet">
 
-        <link rel="shortcut icon" type="image/x-icon" href="img/brand/favicon.ico">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script src="js/bootstrap.js"></script>
 
