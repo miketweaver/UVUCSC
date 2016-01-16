@@ -25,7 +25,7 @@ include 'header.php';
     <p>Our club faculty advisor is <a href="<?php print($faculty_sponsor_url); ?>" target="_blank"><?php print($faculty_sponsor_name); ?></a>.</p>
 
     <h3>Sounds Interesting?</h3>
-    <p>First things first: sign up for our <a href="<?php print($links_mailing_list); ?>">club mailing list</a>. We use it to announce club events, job opportunities, and other related happenings.</p>
+    <p>First things first: sign up for our <a href="<?php print($links_mailing_list); ?>"  target="_blank">club mailing list</a>. We use it to announce club events, job opportunities, and other related happenings.</p>
     <p>While you're here, be sure to check out our bi-weekly <a href="/meetings">Meetings</a> schedule and other things we have coming up.</p>
   <p>Finally, if you have any suggestions for cool things for the club to do (whether for career development or just something fun), then please <a href="contact">contact us!</a></p>
     </div>

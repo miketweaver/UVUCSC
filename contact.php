@@ -25,7 +25,6 @@ include 'header.php';
             <li><a class="email" target="_blank" href="mailto:<?php print($club_contact_email); ?>"></a></li>
             <li><a class="facebook" target="_blank" href="<?php print($links_facebook_page); ?>"></a></li>
       </ul></p>
-
  
       <h4>Mailing List</h4>
       <p>Stay up to date on the latest events and activities by subscribing to our <a href="<?php print($links_mailing_list); ?>">mailing list</a>.</p>
@@ -34,9 +33,9 @@ include 'header.php';
 
   <div class="span6">
     <h3>Outside UVU</h3>
-    <p>UVU CyberSecurity Club is very interested in collaborating with organizations and individuals outside of the UVU community. If you are interesting in working with the club, please look at the information below for different ways to get involved. We hope to hear from you soon!</p>
+    <p>UVU CyberSecurity Club is very interested in collaborating with organizations and individuals outside of the UVU community. If you are interested in working with the club, please look at the information below for different ways to get involved. We hope to hear from you soon!</p>
     <p><h5>- Tech Talks & Info Sessions</h5>
-      Tech Talks are a great way to get UVU students interested in what your company does and get in contact with potential interns and employees. If you are interested in hosting one of these, please email our current vice president <a href="<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a>. We meet on <?php print($club_meetings_weekday); ?> Nights. Please be ready to provide a preferred date and duration.
+      Tech Talks are a great way to get UVU students interested in what your company does and get in contact with potential interns and employees. If you would like to speak at one of these sessions, please email our current vice president <a href="<?php print($officers_vicepresident_contact_link); ?>"><?php print($officers_vicepresident_name); ?></a>. We meet on <?php print($club_meetings_weekday); ?> Nights. 
     </p>
 
       <p><h5>- Sponsorship</h5>
