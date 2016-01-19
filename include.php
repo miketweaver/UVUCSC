@@ -29,7 +29,7 @@ $officers_vicepresident_contact = 'Email';
 $officers_vicepresident_contact_link = 'mailto:nightshade@thebash.ninja';
 
 $officers_communications_name = 'Chris Hallstrom';
-$officers_communications_image = 'male.svg';
+$officers_communications_image = 'chris.jpg';
 $officers_communications_link = '';
 $officers_communications_question = '';
 $officers_communications_answer = '';
