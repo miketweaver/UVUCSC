@@ -33,8 +33,8 @@ $officers_communications_image = 'chris.jpg';
 $officers_communications_link = '';
 $officers_communications_question = '';
 $officers_communications_answer = '';
-$officers_communications_class = 'N/A';
-$officers_communications_hometown = 'N/A';
+$officers_communications_class = 'Junior';
+$officers_communications_hometown = 'Mission Viejo, CA';
 $officers_communications_contact = 'Email';
 $officers_communications_contact_link = 'mailto:nightshade@thebash.ninja';
 
