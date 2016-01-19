@@ -19,7 +19,7 @@ include 'header.php';
 
      <!-- President -->
         <div class="item active">
-          <img src="img/officers/<?php print($officers_president_image); ?>" alt="<?php print($officers_president_name); ?>" />
+          <img src="img/officers/<?php print($officers_president_image); ?>" alt="<?php print($officers_president_name); ?>" height="500" width="500" />
           <div class="carousel-caption">
             <h3>President</h3>
               <h1><a target="_blank" href="<?php print($officers_president_link); ?>"><?php print($officers_president_name); ?></a></h1>
@@ -41,7 +41,7 @@ include 'header.php';
 
      <!-- Vice President -->
         <div class="item">
-          <img src="img/officers/<?php print($officers_vicepresident_image); ?>" alt="<?php print($officers_vicepresident_name); ?>" />
+          <img src="img/officers/<?php print($officers_vicepresident_image); ?>" alt="<?php print($officers_vicepresident_name); ?>" height="500" width="500" />
           <div class="carousel-caption">
             <h3>Vice-President</h3>
               <h1><a target="_blank" href="<?php print($officers_vicepresident_link); ?>"><?php print($officers_vicepresident_name); ?></a></h1>
@@ -63,7 +63,7 @@ include 'header.php';
 
          <!-- Communications -->
         <div class="item">
-          <img src="img/officers/<?php print($officers_communications_image); ?>" alt="<?php print($officers_communications_name); ?>" />
+          <img src="img/officers/<?php print($officers_communications_image); ?>" alt="<?php print($officers_communications_name); ?>" height="500" width="500" />
           <div class="carousel-caption">
             <h3>Communications</h3>
               <h1><a target="_blank" href="<?php print($officers_communications_link); ?>"><?php print($officers_communications_name); ?></a></h1>
@@ -85,7 +85,7 @@ include 'header.php';
 
          <!-- Secretary -->
         <div class="item">
-          <img src="img/officers/<?php print($officers_secretary_image); ?>" alt="<?php print($officers_secretary_name); ?>" />
+          <img src="img/officers/<?php print($officers_secretary_image); ?>" alt="<?php print($officers_secretary_name); ?>" height="500" width="500" />
           <div class="carousel-caption">
             <h3>Secretary</h3>
               <h1><a target="_blank" href="<?php print($officers_secretary_link); ?>"><?php print($officers_secretary_name); ?></a></h1>

@@ -29,7 +29,7 @@ $officers_vicepresident_contact = 'Email';
 $officers_vicepresident_contact_link = 'mailto:nightshade@thebash.ninja';
 
 $officers_communications_name = 'Chris Hallstrom';
-$officers_communications_image = '';
+$officers_communications_image = 'male.svg';
 $officers_communications_link = '';
 $officers_communications_question = '';
 $officers_communications_answer = '';
@@ -39,7 +39,7 @@ $officers_communications_contact = 'Email';
 $officers_communications_contact_link = 'mailto:nightshade@thebash.ninja';
 
 $officers_secretary_name = 'Stephanie Stewart';
-$officers_secretary_image = 'stephanie.jpg';
+$officers_secretary_image = 'female.svg';
 $officers_secretary_link = '';
 $officers_secretary_question = '';
 $officers_secretary_answer = '';
