@@ -5,7 +5,7 @@ $faculty_sponsor_url = 'https://www.uvu.edu/profpages/profiles/show/user_id/1494
 $club_contact_email = 'nightshade@thebash.ninja';
 $club_meetings_weekday = 'Wednesday';
 
-$links_mailing_list = 'https://lists.uvu.edu/sympa/info/cybersecurity';
+$links_mailing_list = 'http://goo.gl/forms/nnnyNpToJK';
 $links_facebook_page = 'https://www.facebook.com/UVUCSC/';
 
 $officers_president_name='Austin Larsen';
