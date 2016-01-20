@@ -22,10 +22,10 @@ include 'header.php';
     <p>Going to a local convention is one of the best ways to get to know other professionals in the field. Networking will be your biggest way to finding a job. <a href="http://www.74rku5.com/about-me/">Sean Jackson</a>, one of the organizers of <a href="https://www.bsidesslc.org/">BSidesSLC</a>, said: "<i>For every security conference, there's a second conference going on -- hallway con. The people you'll meet, the connections you'll make, those will go on through your whole career. I find attending conferences is worth gold for the hallway con.</i>"</p>
   </div>
 
-  <div class="span4">
+  <!--<div class="span4">
     <h3>Something Else Here</h3>
     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-  </div>
+  </div>-->
 
   <div class="span4">
     <h3>Campus Resources</h3>
