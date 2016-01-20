@@ -3,6 +3,25 @@ include 'include.php';
 include 'header.php';
 ?>
 
+  <link rel="stylesheet" type="text/css" href="css/prism.css" />
+
+  <!--[if lte IE 8]>
+      <script src="js/jquery1.10.js"></script>
+      <script src="js/html5shiv.js"></script>
+      <link rel="stylesheet" type="text/css" href="css/clndr.css" />
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet/less" type="text/css" href="css/clndr.less" />
+  <!--<script src="js/jquery-2.2.0.min.js" type="text/javascript"></script>-->
+  <script src="js/less.min.js" type="text/javascript"></script>
+  <!--<![endif]-->
+
+  <script src="js/prism.js" type="text/javascript"></script>
+  <script src="js/underscore.min.js" type="text/javascript"></script>
+  <script src="js/moment.min.js" type="text/javascript"></script>
+  <script src="js/clndr.min.js" type="text/javascript"></script>
+  <script src="js/site.js" type="text/javascript"></script>
+
 <!-- Page Header
 ================================================== -->
 <section id="main">
@@ -47,8 +66,43 @@ to which many club and department events are posted. There is also a general <a 
 </div>
 <div class="span6">
 
-   <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=rice.edu_ke8jk8i0ef1n8o2lsbk9hhha5g%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FChicago" style=" border-width:0 " width="600" height="500" frameborder="0" scrolling="no"></iframe>
-   
+   <div class="inner">
+
+        <div id="full-clndr" class="clearfix">
+          <script type="text/template" id="full-clndr-template">
+            <div class="clndr-controls">
+              <div class="clndr-previous-button">&lt;</div>
+              <div class="clndr-next-button">&gt;</div>
+              <div class="current-month"><%= month %> <%= year %></div>
+
+            </div>
+            <div class="clndr-grid">
+              <div class="days-of-the-week clearfix">
+                <% _.each(daysOfTheWeek, function(day) { %>
+                  <div class="header-day"><%= day %></div>
+                <% }); %>
+              </div>
+              <div class="days">
+                <% _.each(days, function(day) { %>
+                  <div class="<%= day.classes %>" id="<%= day.id %>"><span class="day-number"><%= day.day %></span></div>
+                <% }); %>
+              </div>
+            </div>
+            <div class="event-listing">
+              <div class="event-listing-title">EVENTS THIS MONTH</div>
+              <% _.each(eventsThisMonth, function(event) { %>
+                  <div class="event-item">
+                    <div class="event-item-date"><%= moment(event.date).format('ddd Do, hA') %></div>
+                    <div class="event-item-name"><%= event.title %></div>
+                    <div class="event-item-location"><%= event.location %></div>
+                  </div>
+                <% }); %>
+            </div>
+          </script>
+        </div>
+
+      </div>
+
   </div></div>
 </section>
 
