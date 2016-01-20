@@ -1,5 +1,5 @@
 <?php
-$faculty_sponsor_name = 'Rob Jorgensen';
+$faculty_sponsor_name = 'Robert Jorgensen';
 $faculty_sponsor_url = 'https://www.uvu.edu/profpages/profiles/show/user_id/14943';
 
 $club_contact_email = 'nightshade@thebash.ninja';
@@ -48,5 +48,3 @@ $officers_secretary_hometown = 'N/A';
 $officers_secretary_contact = 'Email';
 $officers_secretary_contact_link = 'mailto:nightshade@thebash.ninja';
 ?>
-
-
