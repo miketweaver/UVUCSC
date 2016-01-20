@@ -67,7 +67,7 @@
           <li><a id="swatch-link" href="career">Career</a></li>
           <li><a id="swatch-link" href="meetings">Meetings</a></li>
           <li><a id="swatch-link" href="contact">Contact</a></li>
-          <li><a id="swatch-link" href="contact">Join Now!</a></li>
+          <li><a id="swatch-link" href="http://goo.gl/forms/nnnyNpToJK" target="_blank">Join Now!</a></li>
 
 
           </ul>
