@@ -17,6 +17,9 @@ body {
   background-position: 0 40px;
 }
 
+.carousel-control {
+    line-height: 25px;
+}
 /* Jumbotrons
 -------------------------------------------------- */
 .jumbotron {
