@@ -28,7 +28,7 @@ to which many club and department events are posted. There is also a general <a 
       <h3>CTF Team Events</h3>
       <p>UVU CyberSecurity has an open Capture the Flag Team for anyone who wants to participate. Our teams will be having weekly meetings, in addition to the club meetings, to prepare ourselves to compete in national competitions throughout the world.</p>
       <p>It's simple: If you really want to dig deep into the world of hacking as a sport, this is where you want to be. Every year we'll be attending <a href="https://www.saintcon.org/" target="_blank">SAINTCON</a> to compete statewide CTF.</p>
-      <p>For details, check out our <a href="ctfteam">CTF Team</a>.</p>   
+      <p>For details, check out our CTF Team<!--<a href="ctfteam">CTF Team</a>-->.</p>   
     </div>
 
     <div class="span12">
