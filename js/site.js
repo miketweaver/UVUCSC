@@ -3,7 +3,7 @@ var clndr = {};
 $( function() {
 
   var events = [
-    { date: '2016-01-27', title: 'Opening Social', location: 'To be Announced' }
+    { date: '2016-01-27', title: 'Opening Social', location: 'Location to be Announced' }
   ];
 
   clndr = $('#full-clndr').clndr({
