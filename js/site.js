@@ -3,7 +3,7 @@ var clndr = {};
 $( function() {
 
   var events = [
-    { date: '2016-01-27 18:30', title: 'Opening Social', location: 'Location to be Announced' },
+    { date: '2016-01-26 18:00', title: 'Opening Social', location: 'CS 615B - Utah Valley University' },
     { date: '2016-03-10 09:00', title: 'BSidesSLC - Day 1', location: 'Salt Palace' },
     { date: '2016-03-11 09:00', title: 'BSidesSLC - Day 2', location: 'Salt Palace' }
   ];
