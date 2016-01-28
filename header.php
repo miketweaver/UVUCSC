@@ -63,6 +63,7 @@
         <div class="nav-collapse" id="main-menu">
           <ul class="nav" id="main-menu-left">
           <li><a id="swatch-link" href="index">Home</a></li>
+          <li><a id="swatch-link" href="http://ctf.uvucsc.com">CTF</a></li>
           <li><a id="swatch-link" href="officers">Officers</a></li>
           <li><a id="swatch-link" href="career">Career</a></li>
           <li><a id="swatch-link" href="meetings">Meetings</a></li>
