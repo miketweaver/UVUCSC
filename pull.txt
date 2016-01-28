@@ -1,2 +1,0 @@
-cd /Library/WebServer/Documents/UVUCSC
-git pull https://github.com/miketweaver/UVUCSC.git
