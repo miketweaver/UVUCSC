@@ -1,0 +1,4 @@
+cd /Library/WebServer/Documents/UVUCSC;
+git add -A;
+git commit -m “test commit”;
+git push;
